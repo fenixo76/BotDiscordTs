@@ -6,6 +6,7 @@ Pour créer d'autres commandes ajoutez des fichiers dans le dossier `Commands`, 
 ## Table des matières
 
 - [Installation](#installation)
+- [Configuration Application Discord](#Configuration Application Discord)
 
 
 ## Installation
@@ -28,3 +29,11 @@ Pour installer ce projet sur votre machine locale, suivez les étapes ci-dessous
 4. Compiler le code :
    ```bash
    npm run build
+   
+## Configuration Application Discord
+
+Sur la page de configuration de votre application Discord, vérifiez bien si les éléments suivants sont cochés dans l'onglet Bot.
+
+PRESENCE INTENT
+SERVER MEMBERS INTENT
+MESSAGE CONTENT INTENT
