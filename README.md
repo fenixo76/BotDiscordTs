@@ -38,7 +38,8 @@ Sur la page de configuration de votre application Discord, vérifiez bien si les
 - SERVER MEMBERS INTENT
 - MESSAGE CONTENT INTENT
 
-https://github.com/fenixo76/BotDiscordTs/blob/main/Sans%20titre-1.png
+![Nom_de_votre_image](https://github.com/fenixo76/BotDiscordTs/blob/main/Sans%20titre-1.png)
+
 
 
 
