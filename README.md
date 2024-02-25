@@ -38,5 +38,6 @@ Sur la page de configuration de votre application Discord, vérifiez bien si les
 - SERVER MEMBERS INTENT
 - MESSAGE CONTENT INTENT
 
-- [img]https://i.imgur.com/ZP0KZgR.png[/img]
+[![Nom_de_votre_image](https://imgur.com/ZP0KZgR)](https://imgur.com/ZP0KZgR)
+
 
