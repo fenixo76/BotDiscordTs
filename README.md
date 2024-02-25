@@ -15,4 +15,12 @@ Pour installer ce projet sur votre machine locale, suivez les étapes ci-dessous
 1. Cloner ce dépôt :
    ```bash
    git clone https://github.com/fenixo76/BotDiscordTs.git
-   puis npm i dans votre terminal
+   
+2. Installer les dépendances :
+   ```bash
+    npm i
+
+3. modifiez le fichier .env :
+   ```bash
+   CLIENT_ID=123456789123456789
+   TOKEN=4156fzefzFZEFfzef4e8z6f4-z0zfez-zefez-FZEFZEf46f5ze4f6
