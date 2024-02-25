@@ -6,7 +6,7 @@ Pour créer d'autres commandes ajoutez des fichiers dans le dossier `Commands`, 
 ## Table des matières
 
 - [Installation](#installation)
-- ["Configuration Application Discord"](#configuration-application-discord)
+- [Configuration Application Discord](#configuration-application-discord)
 
 
 ## Installation
