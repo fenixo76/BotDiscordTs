@@ -20,7 +20,11 @@ Pour installer ce projet sur votre machine locale, suivez les étapes ci-dessous
    ```bash
     npm i
 
-3. modifiez le fichier .env :
+3. Modifiez le fichier .env :
    ```bash
    CLIENT_ID=123456789123456789
    TOKEN=4156fzefzFZEFfzef4e8z6f4-z0zfez-zefez-FZEFZEf46f5ze4f6
+
+4. Compiler le code :
+   ```bash
+   npm run build
