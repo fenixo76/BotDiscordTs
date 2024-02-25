@@ -37,3 +37,6 @@ Sur la page de configuration de votre application Discord, vérifiez bien si les
 - PRESENCE INTENT
 - SERVER MEMBERS INTENT
 - MESSAGE CONTENT INTENT
+
+- ![Configuration Application Discord](https://imgur.com/ZP0KZgR)
+
