@@ -13,7 +13,6 @@ const event: BotEvent = {
         }
 
         // ! IMPORTANT !
-
         if (!interaction.isChatInputCommand()) return;
 
         const command = interaction.client.SlashCommands.get(interaction.commandName);
@@ -21,9 +20,7 @@ const event: BotEvent = {
         if (!command) return;
 
         await command.execute(interaction);
-
         // ! IMPORTANT !
-
     }
 }
 

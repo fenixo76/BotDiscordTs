@@ -7,14 +7,13 @@ export const command: SlashCommand = {
         .setName("test")
         .setDescription("Commande de Test"),
 
-        execute: async (interaction) => {
+    execute: async (interaction) => {
 
-            const embed = new EmbedBuilder()
-                .setTitle("La Commande est OK!")
-                .setDescription("C'est OK!")
+        const embed = new EmbedBuilder()
+            .setTitle("La Commande est OK!")
+            .setDescription("C'est OK!")
 
-            interaction.reply({content: "Commande OK !", embeds:[embed]})
+        interaction.reply({ content: "Commande OK !", embeds: [embed] })
 
-        }
-        
+    }
 }
