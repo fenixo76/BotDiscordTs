@@ -22,4 +22,4 @@ module.exports = async (client: Client) => {
     } catch (error) {
         console.log(error)
     }
-} 
+}
