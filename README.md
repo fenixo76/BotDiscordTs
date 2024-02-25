@@ -34,6 +34,6 @@ Pour installer ce projet sur votre machine locale, suivez les étapes ci-dessous
 
 Sur la page de configuration de votre application Discord, vérifiez bien si les éléments suivants sont cochés dans l'onglet Bot.
 
-PRESENCE INTENT
-SERVER MEMBERS INTENT
-MESSAGE CONTENT INTENT
+- PRESENCE INTENT
+- SERVER MEMBERS INTENT
+- MESSAGE CONTENT INTENT
