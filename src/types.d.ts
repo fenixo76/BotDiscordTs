@@ -28,4 +28,4 @@ export interface SlashCommand {
     async execute: (interaction: CommandInteraction) => Promise<void>
 }
 
-export {}
+export {} 

@@ -17,4 +17,4 @@ module.exports = (client: Client) => {
 
         console.log(`Evenement ${event.name} Ok !`);
     });
-}
+} 
