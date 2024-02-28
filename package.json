@@ -1,4 +1,4 @@
-x{
+{
   "name": "bot-discord-ts",
   "version": "1.0.0",
   "description": "",
@@ -25,4 +25,3 @@ x{
     "typescript": "^5.3.3"
   }
 }
-
